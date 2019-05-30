@@ -1,0 +1,26 @@
+INFO:root:invoke purge_files method
+INFO:root:File has been succesfully moved: SketchUpPro-2016-1-1450-80430-en-x86 - 32 bit.exe
+INFO:root:File has been succesfully moved: SketchUpPro-en-x64.msi
+INFO:root:File has been succesfully moved: R-3.3.2-win.exe
+INFO:root:File has been succesfully moved: RStudio-0.99.902.exe
+INFO:root:File has been succesfully moved: RStudio-1.0.136.exe
+INFO:root:File has been succesfully moved: SW_DVD5_Visual_Studio_Pro_2017_MultiLang_-2_Lang_Pk_MLF_X21-42636.EXE
+INFO:root:File has been succesfully moved: vs_professional__1481726149.1501256384.exe
+INFO:root:File has been succesfully moved: storyline-2.exe
+INFO:root:File has been succesfully moved: storyline-2.zip
+INFO:root:File has been succesfully moved: SAM created - IBM IT application owner or administrators consolidated.xlsx
+INFO:root:File has been succesfully moved: Sublime Text Build 3207 x64 Setup.exe
+INFO:root:invoke purge_files method
+INFO:root:File: NDP462-KB3151800-x86-x64-AllOS-ENU.exe allready exists in the destination
+INFO:root:File: IBM Audit - Data Collection Workbook 2017-10-5 maximo.xlsx allready exists in the destination
+INFO:root:File: Maximo IBM Audit.accdb allready exists in the destination
+INFO:root:File: MaximoTempListTable.xlsx allready exists in the destination
+INFO:root:File: 3EPlus V4.1 Installer.msi allready exists in the destination
+INFO:root:File: setup.exe allready exists in the destination
+INFO:root:File: .install.bat allready exists in the destination
+INFO:root:File: Autorun.inf allready exists in the destination
+INFO:root:File: Instructions for DataFinder.txt allready exists in the destination
+INFO:root:File: roster.xml allready exists in the destination
+INFO:root:File: setup.exe allready exists in the destination
+INFO:root:invoke purge_files method
+INFO:root:invoke purge_files method
