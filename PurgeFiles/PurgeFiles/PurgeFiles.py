@@ -9,8 +9,8 @@ import logging.config
 
 
 
-source = r'C:\Users\q155344\Desktop\BetaSource'
-dest = r'C:\Users\q155344\Desktop\BetaDest'
+source = r'C:\Users\Desktop\BetaSource'
+dest = r'C:\Users\Desktop\BetaDest'
 #Gets the current time from the time module
 now = time.time()
 #Timer of when to purge files
